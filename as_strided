@@ -1,0 +1,7 @@
+針對數組rolling，如array總長度為10，rolling=2，數組共有10-2+1個  
+建立rolling數組，row=10-2+1個，col=2(即rolling數)  
+stride為原始數組數字間的byte間隔，int下相互間隔為8byte，float為4byte  
+若原始數組為int，即array[0]與array[0+n]間隔為8*n  
+rolling數組下，第一為array[0]與array[1]，第二為array[1]與array[2]，對於array[0]來說，無論是同一個row下之array[1]，或是下一row對應  
+位置的array[1]，在原始數組下均是間隔4byte，故stride可設定為4,4  
+ps:stride均以記憶體視角考量
