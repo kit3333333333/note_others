@@ -1,0 +1,37 @@
+earnest 認真的
+are among 是其中的
+logjam 障礙
+worsened the logjams 惡化的僵局
+weave 編織
+headwind 逆風
+supply-chain snags 供應鏈障礙
+woes 悲哀/困境
+nothing seen before 前所未見
+A chip crunch knocked nearly 10m units, or more than 10%, off annual car production in 2021 as firms slashed orders at the start of the pandemic and were pushed to the back of the queue when demand rebounded. 
+短缺是以前從未見過的（見圖）。芯片緊縮使2021年的汽車年產量減少了近1000萬輛，或超過10%，因為企業在大流行病開始時削減了訂單，並在需求反彈時被推到隊伍的後面。
+creeping back up to the record levels
+逐步回升到創紀錄的水平
+welder 焊工
+dearth 匱乏
+
+	供應鏈問題一般不常在財報被提到，但最近一季不一樣，COVID問題(員工隔離>人力/物流系統>運輸)
+令人力、原材料上升，成本全面提高
+
+GE:醫療業務受打擊
+Raytheon:可預見供應鏈中斷
+Boeing:原料、人力&物流挑戰需要關注
+Tesla:供應鏈問題令工廠低產能
+Siemens Gamesa(歐洲風力渦輪公司):盈利警告歸因於供應鏈問題(其競爭者Vestas同樣)
+EY:英國上市公司，2021Q4盈利警告年上升19%
+
+晶片短缺>2021汽車產量下降超過10%
+Toyota:2021-2減產15萬台車
+美國商務部調查:大型公司晶片庫存>由2019 40天>至2021 5天且預計未來6個月不會改善>工廠關閉危機
+
+運費逐漸升至去年創記錄水平，分析師預期2022 6月前不會改善
+IHS:US:勞動力比疫情前下降400萬，EU:勞動力因移工流動減少,亞洲:勞動力因嚴格lockdown減少
+
+各因素令原料與人力成本上升+高能源價格
+目前無改善跡象
+可預期差的Q2業績也會以為借口
+	
