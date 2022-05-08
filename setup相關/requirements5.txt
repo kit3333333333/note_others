@@ -1,0 +1,13 @@
+numpy
+requests
+seaborn
+scipy
+pypiwin32
+pywin32
+pywin32-ctypes
+lxml
+Pillow
+pandas
+matplotlib
+xlwings
+yfinance
