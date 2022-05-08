@@ -1,3 +1,5 @@
 先create env，cd到folder，再pip install -r requirements.txt  
 3/4/5=vba button stable  python3.8.13  
-5沒有限制版本 若5不行就4  4不行就
+5沒有限制版本 若5不行就4  4不行就  
+若出現win32 dll fail  
+copy env中的pywin32_system32兩個dll到windows的
