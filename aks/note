@@ -1,0 +1,15 @@
+import akshare as ak
+
+spot_goods_df = ak.spot_goods(symbol="波罗的海干散货指数")
+print(spot_goods_df)
+
+
+
+df = ak.macro_china_freight_index()
+print(macro_china_freight_index_df)
+
+macro_china_bdti_index_df = ak.macro_china_bdti_index()
+print(macro_china_bdti_index_df)
+
+
+test=ak.macro_china_construction_price_index()
